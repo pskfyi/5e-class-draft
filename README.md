@@ -6,3 +6,4 @@ Class Draft is a PvP game mode for 5th Edition Dungeons & Dragons. In this game 
 
 - [Rules](./rules.md)
 - [FAQ](./faq.md)
+- [Playtesting Notes](./playtesting)
